@@ -1,0 +1,24 @@
+{
+  "name": "atividade-formulario-post",
+  "version": "1.0.0",
+  "description": "Formulários com método POST",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaioJesuss/Atividade-Formulario-POST.git"
+  },
+  "author": "Kaio Jesus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaioJesuss/Atividade-Formulario-POST/issues"
+  },
+  "homepage": "https://github.com/KaioJesuss/Atividade-Formulario-POST#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
